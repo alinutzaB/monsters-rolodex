@@ -4,7 +4,7 @@
 This is a simple page with React.It was built as a project to show people who might not be familiar with the syntax in React,concepts including elements, components, props, and state.
 
 You can see the demo version here:
-### [Demo](https://alinutzab.github.io/monster-rolodex/)
+### [Demo](https://alinutzab.github.io/monsters-rolodex/)
 
 ## Instalation
 - Clone the repo in your terminal by clicking the _green_ clone or download button at the top right and copying the url
